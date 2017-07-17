@@ -94,7 +94,7 @@ Repositório dos alunos do curso de Tecnologia em Sistemas da Computação da Un
 
 ### Quarto Período:
 - Probabilidade e Estatistica:    
-    [Whatsapp]() => Ainda não tem    
+    [Whatsapp](https://chat.whatsapp.com/2Ji0z4k5Rkk6Pam0c93Y3h)    
     [Drive](https://drive.google.com/open?id=0B09LpkQ_E4zTWUVBSV80XzhlNUk)
     
 
