@@ -146,7 +146,7 @@ Repositório dos alunos do curso de Tecnologia em Sistemas da Computação da Un
     
 
 - Redes de Computadores II:    
-    [Whatsapp](https://chat.whatsapp.com/3veLH4G4YPCGRjW0P1G9P3)  
+    [Whatsapp](https://chat.whatsapp.com/3veLH4G4YPCGRjW0P1G9P3)    
     [Drive](https://drive.google.com/open?id=0B09LpkQ_E4zTeG9OUjlVcXNkUTg)
     
 
