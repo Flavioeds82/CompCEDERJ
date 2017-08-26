@@ -205,7 +205,7 @@ Repositório dos alunos do curso de Tecnologia em Sistemas da Computação da Un
 
 ### Optativas:
 - Desafios de Computação:    
-    - [Whatsapp]()  => Ainda não tem        
+    - Whatsapp  => Ainda não tem        
     - [Novo Drive](https://drive.google.com/open?id=0B09LpkQ_E4zTaER2STBIMWpaV1E)  
     - [Drive](https://drive.google.com/drive/folders/0B-674WO8m5GebWN0U1RfdDE0aHM)
     
