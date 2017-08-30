@@ -90,6 +90,7 @@ Repositório dos alunos do curso de Tecnologia em Sistemas da Computação da Un
     - [Whatsapp](https://chat.whatsapp.com/LcErCMXDfq6Cgvx654hsx9)      
     - [Novo Drive](https://drive.google.com/open?id=0B09LpkQ_E4zTWlY3bUNKMElxSGc)    
     - [Drive](https://drive.google.com/open?id=0B09LpkQ_E4zTU1dqMXVBYlNlMGM)
+    - [matrixcalc.org/pt](http://matrixcalc.org/pt/) - Para resolver as ADs. Esse site dá a resposta e o desenvolvimento das questões. Faça bom uso!
     
 
 ### Terceiro Período:
