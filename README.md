@@ -8,12 +8,6 @@ Repositório dos alunos do curso de Tecnologia em Sistemas da Computação da Un
         - Transparências.
         - Pastas disponíveis para compartilhar material em todas as matérias.
 
-
-        Não possui acesso às pastas das matérias no drive? 
-        Tente acessar com seu email da UFF (@id.uff.br), 
-        ou envie envie um email para thiagoborges@id.uff.br 
-        pedindo acesso.
-
 ## [![Logo Telegram](http://saladeestudos.esy.es/_imagens/telegram.png) Telegram](https://t.me/computacaoUFF)
         - Grupo mais ativo do nosso curso.
         - Turma muito disposta a ajudar.
