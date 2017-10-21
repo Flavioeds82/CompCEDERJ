@@ -2,35 +2,38 @@
 Repository of students of the Tecnologia em Sistemas da Computação course at the Universidade Federal Fluminense
 Repositório dos alunos do curso de Tecnologia em Sistemas da Computação da Universidade Federal Fluminense
 
-## [![Logo Drive](http://saladeestudos.esy.es/_imagens/drive.png) Novo Drive](https://drive.google.com/drive/folders/0B09LpkQ_E4zTSnJNcEZVYmNjbEU?usp=sharing)
+## [Novo Drive ![Logo Drive](http://saladeestudos.esy.es/_imagens/drive.png)](https://drive.google.com/drive/folders/0B09LpkQ_E4zTSnJNcEZVYmNjbEU?usp=sharing)
         - Todas as ADs e APs organizadas.
         - Todas as aulas baixadas.
         - Transparências.
         - Pastas disponíveis para compartilhar material em todas as matérias.
 
-## [Drive](https://goo.gl/UPc92N)
+
         Não possui acesso às pastas das matérias no drive? 
         Tente acessar com seu email da UFF (@id.uff.br), 
         ou envie envie um email para thiagoborges@id.uff.br 
         pedindo acesso.
 
-### [MatFis](https://drive.google.com/drive/folders/0Bw61PcDthNLSOGt5ZC1pc0d2X2s)
-        Possui algumas APs bem antigas
-
 ## [![Logo Telegram](http://saladeestudos.esy.es/_imagens/telegram.png) Telegram](https://t.me/computacaoUFF)
         - Grupo mais ativo do nosso curso.
         - Turma muito disposta a ajudar.
-
-## [Slack](https://slack-compcederj.herokuapp.com/)
-
-## [YouTube - SOS CompCEDERJ](https://www.youtube.com/channel/UCfL4Poo2CW2ww9MCcWWvasA)
-
-## [HD do CompCEDERJ](https://onedrive.live.com/?authkey=%21AIZLFUL1M2GDyyk&id=589E18067CE99545%21522&cid=589E18067CE99545)
-
+        
 ## [Sala de Estudos](http://saladeestudos.esy.es)
         - Link para todas as video aulas do nosso curso.
 
+### [MatFis](https://drive.google.com/drive/folders/0Bw61PcDthNLSOGt5ZC1pc0d2X2s)
+        Possui algumas APs bem antigas
+
+### [YouTube - SOS CompCEDERJ](https://www.youtube.com/channel/UCfL4Poo2CW2ww9MCcWWvasA)
+        Duvidas tiradas de aluno para aluno. Faça um video você também e nos informe! thiagoborges@id.uff.br
+
+### [HD do CompCEDERJ](https://onedrive.live.com/?authkey=%21AIZLFUL1M2GDyyk&id=589E18067CE99545%21522&cid=589E18067CE99545)
+
+### [Drive](https://goo.gl/UPc92N)
+
 ## [CompCEDERJ](http://www.compcederj.com.br)
+        
+### [Slack](https://slack-compcederj.herokuapp.com/)
 
 ## Grupos no Whatsapp:
 - [Computação 2016.2](https://chat.whatsapp.com/2r5Sz373pztAoeVxt339T4) 
