@@ -197,7 +197,7 @@ Repositório dos alunos do curso de Tecnologia em Sistemas da Computação da Un
     
 
 - TCC:    
-    - Whatsapp  => Ainda não tem    
+    - [Whatsapp](https://chat.whatsapp.com/7poTed05KPz0qqtbaVwclL)    
     - [Novo Drive](https://drive.google.com/open?id=0B09LpkQ_E4zTWVZQWk1vUE1TWjQ)
     
 
