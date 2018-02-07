@@ -173,7 +173,7 @@ Repositório dos alunos do curso de Tecnologia em Sistemas da Computação da Un
 
 ### Sexto Período:
 - Empreendedorismo e Ética:    
-    - Whatsapp => Ainda não tem        
+    - [Whatsapp](https://chat.whatsapp.com/37wb3UNTpyN9pANsbh5XqK)        
     - [Novo Drive](https://drive.google.com/open?id=0B09LpkQ_E4zTcGhIVFNqamRCWUk)  
     - [Drive](https://drive.google.com/open?id=0B09LpkQ_E4zTT1JtbXhxTW16dDg)
     
