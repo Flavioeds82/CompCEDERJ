@@ -30,4 +30,5 @@ Repositório dos alunos do curso de Tecnologia em Sistemas da Computação da Un
 ### [Slack](https://slack-compcederj.herokuapp.com/)
 
 ## [Grupos no Whatsapp](http://saladeestudos.esy.es/#disciplinas)
-    Nossos grupos de WhatsApp podem ser encontrados em [http://compcederj.github.io](http://saladeestudos.esy.es/#disciplinas)
+    
+Nossos grupos de WhatsApp podem ser encontrados em [http://compcederj.github.io](http://saladeestudos.esy.es/#disciplinas)
