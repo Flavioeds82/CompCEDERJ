@@ -1,4 +1,4 @@
-# [![Logo Sala de Estuos](http://saladeestudos.esy.es/#page-top) CompCEDERJ](https://compcederj.github.io)
+# [![Logo Sala de Estuos](https://compcederj.github.io/img/logo-novo-nav.png) CompCEDERJ](https://compcederj.github.io)
 Repository of students of the Tecnologia em Sistemas da Computação course at the Universidade Federal Fluminense
 Repositório dos alunos do curso de Tecnologia em Sistemas da Computação da Universidade Federal Fluminense
 
@@ -12,7 +12,7 @@ Repositório dos alunos do curso de Tecnologia em Sistemas da Computação da Un
         - Grupo mais ativo do nosso curso.
         - Turma muito disposta a ajudar.
         
-## [![Logo Sala de Estuos](http://saladeestudos.esy.es/#page-top) Sala de Estudos](http://saladeestudos.esy.es)
+## [![Logo Sala de Estuos](https://compcederj.github.io/img/logo-novo-nav.png) Sala de Estudos](http://saladeestudos.esy.es)
         - Link para todas as video aulas do nosso curso.
 
 ### [MatFis](https://drive.google.com/drive/folders/0Bw61PcDthNLSOGt5ZC1pc0d2X2s)
